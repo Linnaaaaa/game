@@ -1,0 +1,4 @@
+linna	1234
+chan	5678
+hihi	hoho
+yoyo	baba
